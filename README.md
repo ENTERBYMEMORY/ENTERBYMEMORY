@@ -13,7 +13,9 @@
   </a>
 </p>
 ㅤ
-ㅤ
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=enterbymemory&color=756f51&style=flat-square&label=paws+in+the+snow"  />
+</p>
 ㅤ
 ㅤ
 ㅤ
